@@ -11,7 +11,7 @@ The printer will be design using Fusion 360
 
 -------------------------------------------------------
 Update 01 - 09/14/16
-- initial .STP and .F3D upload
+- initial .STP and .F3D upload (starts at v36)
 - Added FSR sensor holder
 - Added FSR pusher
 - Added hot end holder to openbuild mini plate
